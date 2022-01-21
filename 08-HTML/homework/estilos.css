@@ -1,0 +1,28 @@
+#thirdDiv{
+    width: 600px;
+    height: 400px;
+    background-color: aquamarine;
+    padding: 50px;
+    border: 5px dashed red;
+
+}
+
+.divClass{
+
+
+}
+
+#spanId{
+
+    font-size: 18px;
+    margin: 50px;
+}
+
+h1{
+    color: pink;
+}
+
+img{
+    width: 400px;
+    height: 200px;
+}
